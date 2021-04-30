@@ -136,7 +136,7 @@ function sendTransaction(isAdding) {
   })
   .catch(err => {
     console.log(err);
-    saveRecord(formData);
+    saveRecord(transaction);
   
 
     // clear form
