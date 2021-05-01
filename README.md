@@ -8,10 +8,10 @@
 * [Installation](#installation)
 * [Contributors](#contributors)
 * [Testing](#Testing)
-* [Licensing](#Licenses)
 * [Contact](#questions)
 
 ========================
+
 
 ### **Repository Name**  
 budget-tracker
@@ -23,23 +23,23 @@ A simple app to help users keep track of their budgets. This app is mobile frien
 N/A
 
 ### **Usage**  
-N/A
+![alt text](screenshot.png)
+https://budget-tracker-45.herokuapp.com/
 
 ### **Contributors**  
 alehr45
 
 ### **Testing**  
-Test this app by using chrome dev tools. In the Network tab, find the dropdown menu and choose connection to Offline. Next attempt to make a transaction. If you then use the dropdown menu to go back online you will see that the transaction has been added and a message has appeeared to confirm.
+#### Test this app by using chrome dev tools. 
+#### In the Network tab, find the dropdown menu and choose connection to Offline. 
+#### Next attempt to make a transaction. 
+#### If you then use the dropdown menu to go back online you will see that the transaction has been added and a message has appeeared to confirm.
 
-### **License**  
-![badge](https://img.shields.io/badge/license-Mozilla-brightgreen)  
 
-This application is covered by the Mozilla license. 
 
 ========================
 
 ### Questions?
-##### Email: alehr45@gmail.com
 ##### GitHub: www.github.com/alehr45  
 
 ========================
