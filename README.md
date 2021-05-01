@@ -17,10 +17,12 @@
 budget-tracker
 
 ### **Description**  
-A simple app to help users keep track of their budgets. This app is mobile friendly and useful because of its offline capability. Users can add or remove funds with the app and the app will update when it finds a data connection/internet.
+A simple app to help users keep track of their budgets. This app is mobile friendly and useful because of its offline capability. Users can add or remove funds with the app and the app will update when it finds a data connection/internet. User can also download this PWA to their local device.
 
 ### **Installation**  
-N/A
+#### Follow link to deployed app above. 
+#### On the far right of your address bar there should be a link to install. 
+#### Follow prompts to install to your local device
 
 ### **Usage**  
 ![alt text](screenshot.png)
